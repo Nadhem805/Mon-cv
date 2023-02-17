@@ -1,0 +1,62 @@
+#header1{
+	width: 100%;
+	height: 130px;
+	background-color:darkblue;
+}
+h1{
+	text-align:center;
+	color: white;
+}
+div>p{
+	text-align:center;
+	color: white;
+}
+img{
+	position: relative;
+	bottom: 111px;
+}
+#header2{
+	width: 100%;
+	height: 60px;
+	background-color:burlywood;
+}
+section{
+		
+	background-color:burlywood;
+	width: 25%;
+	height: 530px;
+	position: absolute;
+	top: 280px;
+	padding: 6px;
+
+
+}
+aside{
+	
+	width: 75%;
+	height: 530px;
+	position:relative;
+	left: 370px;
+	top: 33px;
+}
+#titre1{
+	width: 500px;
+	height: 45px;
+	background-color: burlywood;
+	text-align: center;
+	position: relative;
+	left: 275px;
+	top: 30px;
+}
+#titre2{
+		width: 500px;
+	height: 45px;
+	background-color: burlywood;
+	text-align: center;
+	
+	
+	
+}
+ul{
+	text-align: justify;
+}
